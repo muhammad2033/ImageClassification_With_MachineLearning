@@ -10,3 +10,7 @@ Following the extraction and organization of the datasets, features can be extra
 
 # In summary, 
 image classification involves unzipping image datasets, extracting relevant features, and employing machine learning algorithms such as logistic regression, SVM, random forests, and gradient boosting for accurate classification. The effectiveness of these algorithms is further enhanced by incorporating feature extraction techniques like HOG, LBP, and ORB.
+
+# streamlit
+
+I also created the code for streamlit , the detects the testing data or images.
